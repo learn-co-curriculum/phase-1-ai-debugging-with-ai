@@ -34,21 +34,19 @@ both Phind and any general chatbots:
 2. **Be Specific:** If you’re getting multiple errors, try to isolate each error
    and ask about them separately. Too much information can cause the model to
    provide broad, general solutions instead of a focused diagnosis.
-3. ************\*\*\*\*************Provide Code:************\*\*\*\*************
-   Most chatbots support code recognition too. Always provide code samples so
-   that the models analyze the errors in context and respond with relevant
-   solutions.
-4. ****\*\*\*\*****Ask Follow-up Questions:****\*\*\*\***** If the suggested
-   solution doesn’t work for you, follow-up with additional error messages,
-   modified code, and any additional context. Most models will retain a certain
-   number of conversations and use them to formulate subsequent responses.
-5. **\*\*\*\***Verify with External Sources:**\*\*\*\*** Phind will provide you
-   with relevant links to StackOverflow and other sites so make sure to check
-   them out for the full context of the suggestions. For general-purpose
-   chatbots that don’t provide sources, use a search engine like Google or
-   DuckDuckGo to verify the information. This is especially important if you’re
-   solving a niche problem or don’t have too much experience with the languages
-   or tools you’re using.
+3. **Provide Code:** Most chatbots support code recognition too. Always provide
+   code samples so that the models analyze the errors in context and respond
+   with relevant solutions.
+4. **Ask Follow-up Questions:** If the suggested solution doesn’t work for you,
+   follow-up with additional error messages, modified code, and any additional
+   context. Most models will retain a certain number of conversations and use
+   them to formulate subsequent responses.
+5. **Verify with External Sources:** Phind will provide you with relevant links
+   to StackOverflow and other sites so make sure to check them out for the full
+   context of the suggestions. For general-purpose chatbots that don’t provide
+   sources, use a search engine like Google or DuckDuckGo to verify the
+   information. This is especially important if you’re solving a niche problem
+   or don’t have too much experience with the languages or tools you’re using.
 
 ## Conclusion
 
